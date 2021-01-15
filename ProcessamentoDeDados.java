@@ -33,7 +33,7 @@ public class ProcessamentoDeDados {
         A = 8f;
         H = 5f;
 
-        areas = (float) ((a + A) / 2f * h);
+        areas = (float) (a + A) / 2f * H;
 
         System.out.println(areas);
 
