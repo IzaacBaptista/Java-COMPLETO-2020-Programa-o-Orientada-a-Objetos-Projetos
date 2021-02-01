@@ -37,6 +37,9 @@ public class exercicioDois {
         System.out.println("AREA = " + area);
         System.out.println("PREÇO = " + preco);
 
+        System.out.printf("AREA = %.2f%n", area);
+        System.out.printf("PREÇO = %.2f%n", preco);
+
         sc.close();
     }
 }
