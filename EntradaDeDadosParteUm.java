@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class EntradaDeDados {
+public class EntradaDeDadosParteUm {
 
     public static void main(String[] args) {
 
